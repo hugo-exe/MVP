@@ -1,0 +1,60 @@
+ID: 1
+Valor: 1000.0
+Quantidade:  AAAA
+Data: Sat Jul 08 21:54:45 BRT 2023
+
+ID: 1
+Valor: 1000.0
+Quantidade:  10
+Data: Sat Jul 08 21:55:36 BRT 2023
+
+ID: 1
+Valor: 1000.0
+Quantidade:  2
+Data: Sat Jul 08 22:02:14 BRT 2023
+
+ID: 1
+Valor: 1000.0
+Quantidade:  1000
+Data: Sat Jul 08 22:37:43 BRT 2023
+
+ID: 1
+Valor: 1000.0
+Quantidade:  10
+Data: Sat Jul 08 22:38:25 BRT 2023
+
+ID: 12
+Valor: 1000.0
+Quantidade:  12
+Data: Sat Jul 08 22:49:53 BRT 2023
+
+ID: 1
+Valor: 1000.0
+Quantidade: 10
+Data: Sat Jul 08 22:58:08 BRT 2023
+
+ID: 1
+Valor: 1000.0
+Quantidade: 10
+Data: Sat Jul 08 23:00:22 BRT 2023
+
+ID: 2
+Valor: 2000.0
+Quantidade: 20
+Data: Sat Jul 08 23:00:33 BRT 2023
+
+ID: 1
+Valor: 1000.0
+Quantidade: 10
+Data: Sat Jul 08 23:10:25 BRT 2023
+
+ID: 2
+Valor: 3000.0
+Quantidade: 20
+Data: Sat Jul 08 23:10:40 BRT 2023
+
+ID: 3
+Valor: 5000.0
+Quantidade: 5
+Data: Sat Jul 08 23:10:51 BRT 2023
+
